@@ -13,14 +13,23 @@ const questions = [
         type: 'input',
         message: "What is your GitHub username?",
         name: 'username',
-        validate: function (answer) {
-            if (answer.length < 1) {
-                return console.log("Error: A valid GitHub username is required.");
-            }
-            return true;
-        }
     },
-    
+    {
+        type: 'input',
+        message: "What is the name of your GitHub Repo?",
+        name: 'repo',
+    },
+    {
+        type: 'input',
+        message: "What is the title of your application",
+        name: 'title',
+    },
+    {
+        type: 'input',
+        message: "Please give a brief description of your project",
+        name: 'description',
+    },
+
 ];
 
 
