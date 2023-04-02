@@ -17,7 +17,7 @@
   # Project Title
   test
 
-  ## Descitption
+  ## Description
   test
 
   ## Installation Instructions

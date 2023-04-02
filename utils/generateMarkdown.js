@@ -71,7 +71,7 @@ function generateMarkdown(data) {
   # Project Title
   ${title}
 
-  ## Descitption
+  ## Description
   ${description}
 
   ## Installation Instructions
