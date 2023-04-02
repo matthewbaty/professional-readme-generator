@@ -38,7 +38,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: "Please provide a brief discription on the guidelines for useage of your application",
+        message: "Please provide a brief discription on the guidelines for usage of your application",
         name: 'guidelines',
     },
     {
@@ -63,9 +63,9 @@ const questions = [
 
 // TODO: Create a function to write README file
 function createReadme(fileName, data) {
-    fs.writeFile(filename, data, (error) => {
+    fs.writeFile(fileName, data, (error) => {
         if (error) throw (error);
-        console.log(`README file ${filename} has been created successfully!`)
+        console.log(`README file ${fileName} has been created successfully!`)
     })
 }
 
