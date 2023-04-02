@@ -14,12 +14,12 @@ const questions = [
     {
         type: 'input',
         message: 'What is your name?',
-        name: 'userName',
+        name: 'personName',
     },
     {
         type: 'input',
         message: "What is your GitHub username?",
-        name: 'GithubUsername',
+        name: 'username',
     },
     {
         type: 'input',
@@ -48,7 +48,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: "Please provide a brief discription on how someone can contribute to your project",
+        message: "Please provide a brief discription on how someone can test to your project",
         name: 'testing',
     },
     {
@@ -67,10 +67,10 @@ function createReadme(fileName, data) {
         if (error) throw (error);
         console.log(`README file ${filename} has been created successfully!`)
     })
- }
+}
 
 // TODO: Create a function to initialize app
-function init() { 
+function init() {
     inquirer
         .prompt(questions)
         .then((answers) => {
