@@ -25,3 +25,5 @@ N/A
 Repo: https://github.com/matthewbaty/professional-readme-generator
 
 Video walkthrough: https://drive.google.com/file/d/19G-RXBup9aX86pEm2D1bg1fpF0UiUnfr/view 
+
+Sample README that was generated: https://github.com/matthewbaty/professional-readme-generator/blob/main/ExampleREADME.md
