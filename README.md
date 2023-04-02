@@ -1,9 +1,9 @@
 
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/><br/>
   ## Table of Contents
-  * [Author](#personName)
-  * [Project Title](#title)
-  * [Project Description](#description)
+  * [Author](#author)
+  * [Project Title](#projectTitle)
+  * [Project Description](#ProjectDescription)
   * [Installation Instructions](#installation)
   * [Usage Information](#guidelines)
   * [Contribution Guidelines](#contribution)
@@ -11,13 +11,13 @@
   * [License](#license)
   * [Support](#email)
   
-  # Application Creator
-  Matthew BAty
+  # Author
+  Matthew Baty
 
-  # Application Name
+  # Project Title
   test
 
-  ## Descitption
+  ## Project Descitption
   test
 
   ## Installation 
