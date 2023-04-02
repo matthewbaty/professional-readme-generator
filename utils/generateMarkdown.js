@@ -60,10 +60,38 @@ function generateMarkdown(data) {
   * [Project Description](#description)
   * [Installation Instructions](#installation)
   * [Usage Information](#guidelines)
-  * [Contribution Guidelines](#projectContribution)
-  * [Test Instructions](#projectTesting)
-  * [License](#projectLicense)
-  * [Support](#projectEmail)
+  * [Contribution Guidelines](#contribution)
+  * [Test Instructions](#testing)
+  * [License](#license)
+  * [Support](#email)
+  
+  # Application Creator
+  ${personName}
+
+  # Application Name
+  ${title}
+
+  ## Descitption
+  ${description}
+
+  ## Installation 
+  ${installation}
+
+  ## Usage
+  ${guidelines}
+
+  ## How to Contribute
+  ${contribute}
+
+  ## Testing
+  ${testing}
+
+  ## License 
+  <img alt="License: ${projectLicense}" src="${licenseBadge}"></br>
+  This application is licensed under the terms of the ${projectLicense} license. Click <a href="${licenseLink}">here</a> to view full license text.
+
+  ## Questions
+  If you have questions or would like to provide feedback, you can find my GitHub at <a href="https://github.com/${username}">GitHub</a> or via email at <a href="mailto:${email}"></a>
 `;
 }
 
