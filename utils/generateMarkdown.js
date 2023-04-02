@@ -56,22 +56,22 @@ function generateMarkdown(data) {
   <img alt="License: ${license}" src="${licenseBadge}"/><br/>
   ## Table of Contents
   * [Author](#author)
-  * [Project Title](#projectTitle)
-  * [Project Description](#ProjectDescription)
-  * [Installation Instructions](#installation)
-  * [Usage Information](#guidelines)
-  * [Contribution Guidelines](#contribution)
-  * [Test Instructions](#testing)
+  * [Title](#title)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution](#contribution)
+  * [Testing](#testing)
   * [License](#license)
-  * [Support](#email)
+  * [Questions](#questions)
   
   # Author
   ${personName}
 
-  # Project Title
+  # Title
   ${title}
 
-  ## Project Descitption
+  ## Descitption
   ${description}
 
   ## Installation 
@@ -80,7 +80,7 @@ function generateMarkdown(data) {
   ## Usage
   ${guidelines}
 
-  ## How to Contribute
+  ## Contribution
   ${contribute}
 
   ## Testing
