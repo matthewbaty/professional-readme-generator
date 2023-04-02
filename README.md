@@ -1,40 +1,23 @@
+# Professional README Generator
 
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/><br/>
-  ## Table of Contents
-  * [Author](#application-creator)
-  * [Project Title](#project-title)
-  * [Description](#description)
-  * [Installation Instructions](#installation-instructions)
-  * [Usage Information](#usage-information)
-  * [Contribution Guidelines](#how-to-contribute)
-  * [Testing Instructions](#testing-instructions)
-  * [License](#license)
-  * [Support](#questions)
-  
-  # Application Creator
-  Matthew Baty
+## Description
 
-  # Project Title
-  Test Title
+This is a professional README generator that uses node.js to ask the user a series of questions and then generates a high quailty README based on their respones
 
-  ## Description
-  Test description
+## Installation
 
-  ## Installation Instructions
-  Test installation instructions
+N/A
 
-  ## Usage Information
-  Test usage guidelines
+## Usage
 
-  ## How to Contribute
-  Test contribution instructions
+This tool will allow the user to generate a professional quality README using node.js. It will ask the user a series of questions about their GitHub as well as their application. It will then generate the README with all sections as well as a working table of contents. 
 
-  ## Testing Instructions
-  Test test instructions
+## Credits
 
-  ## License 
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></br>
-  This application is licensed under the terms of the MIT license. Click <a href="https://opensource.org/licenses/MIT">here</a> to view full license text.
+N/A
 
-  ## Questions
-  If you have questions or would like to provide feedback, you can find my GitHub at <a href="https://github.com/matthewbaty">GitHub</a> or via email at <a href="mailto:mattbaty@outlook.com">Email</a>
+## License
+
+N/A
+
+## Application
