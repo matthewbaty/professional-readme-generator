@@ -15,22 +15,22 @@
   Matthew Baty
 
   # Project Title
-  test
+  Test Title
 
   ## Description
-  test
+  Test description
 
   ## Installation Instructions
-  test
+  Test installation instructions
 
   ## Usage Information
-  test
+  Test usage guidelines
 
   ## How to Contribute
-  test
+  Test contribution instructions
 
   ## Testing Instructions
-  test
+  Test test instructions
 
   ## License 
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></br>
