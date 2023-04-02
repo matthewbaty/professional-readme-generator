@@ -55,35 +55,35 @@ function generateMarkdown(data) {
   return `
   <img alt="License: ${license}" src="${licenseBadge}"/><br/>
   ## Table of Contents
-  * [Author](#author)
-  * [Title](#title)
+  * [Author](#application-creator)
+  * [Project Title](#project-title)
   * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Testing](#testing)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
+  * [Contribution Guidelines](#how-to-contribute)
+  * [Testing Instructions](#testing-instructions)
   * [License](#license)
-  * [Questions](#questions)
+  * [Support](#questions)
   
-  # Author
+  # Application Creator
   ${personName}
 
-  # Title
+  # Project Title
   ${title}
 
   ## Descitption
   ${description}
 
-  ## Installation 
+  ## Installation Instructions
   ${installation}
 
-  ## Usage
+  ## Usage Information
   ${guidelines}
 
-  ## Contribution
+  ## How to Contribute
   ${contribute}
 
-  ## Testing
+  ## Testing Instructions
   ${testing}
 
   ## License 

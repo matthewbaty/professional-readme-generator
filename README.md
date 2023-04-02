@@ -1,35 +1,35 @@
 
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/><br/>
   ## Table of Contents
-  * [Author](#author)
-  * [Title](#title)
+  * [Author](#application-creator)
+  * [Project Title](#project-title)
   * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Testing](#testing)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
+  * [Contribution Guidelines](#how-to-contribute)
+  * [Testing Instructions](#testing-instructions)
   * [License](#license)
-  * [Questions](#questions)
+  * [Support](#questions)
   
-  # Author
-  Matthew BAty
+  # Application Creator
+  Matthew Baty
 
-  # Title
+  # Project Title
   test
 
   ## Descitption
   test
 
-  ## Installation 
+  ## Installation Instructions
   test
 
-  ## Usage
+  ## Usage Information
   test
 
-  ## Contribution
+  ## How to Contribute
   test
 
-  ## Testing
+  ## Testing Instructions
   test
 
   ## License 
