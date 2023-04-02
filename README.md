@@ -22,4 +22,6 @@ N/A
 
 ## Application
 
-https://drive.google.com/file/d/19G-RXBup9aX86pEm2D1bg1fpF0UiUnfr/view 
+Repo: https://github.com/matthewbaty/professional-readme-generator
+
+Video walkthrough: https://drive.google.com/file/d/19G-RXBup9aX86pEm2D1bg1fpF0UiUnfr/view 
