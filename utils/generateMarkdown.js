@@ -50,10 +50,10 @@ function generateMarkdown(data) {
     testing,
     license
   } = data
-  const licenseBadge = renderLicenseBadge(projectLicense);
-  const licenseLink = renderLicenseLink(projectLicense);
+  const licenseBadge = renderLicenseBadge(license);
+  const licenseLink = renderLicenseLink(license);
   return `
-  <img alt="License: ${projectLicense}" src="${licenseBadge}"/><br/>
+  <img alt="License: ${license}" src="${licenseBadge}"/><br/>
   ## Table of Contents
   * [Author](#personName)
   * [Project Title](#title)
@@ -87,8 +87,8 @@ function generateMarkdown(data) {
   ${testing}
 
   ## License 
-  <img alt="License: ${projectLicense}" src="${licenseBadge}"></br>
-  This application is licensed under the terms of the ${projectLicense} license. Click <a href="${licenseLink}">here</a> to view full license text.
+  <img alt="License: ${license}" src="${licenseBadge}"></br>
+  This application is licensed under the terms of the ${license} license. Click <a href="${licenseLink}">here</a> to view full license text.
 
   ## Questions
   If you have questions or would like to provide feedback, you can find my GitHub at <a href="https://github.com/${username}">GitHub</a> or via email at <a href="mailto:${email}"></a>
