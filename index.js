@@ -38,7 +38,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: "Please provide a brief discription on the guidelines for your application",
+        message: "Please provide a brief discription on the guidelines for useage of your application",
         name: 'guidelines',
     },
     {
