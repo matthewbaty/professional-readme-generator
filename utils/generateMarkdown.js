@@ -91,7 +91,7 @@ function generateMarkdown(data) {
   This application is licensed under the terms of the ${license} license. Click <a href="${licenseLink}">here</a> to view full license text.
 
   ## Questions
-  If you have questions or would like to provide feedback, you can find my GitHub at <a href="https://github.com/${username}">GitHub</a> or via email at <a href="mailto:${email}"></a>
+  If you have questions or would like to provide feedback, you can find my GitHub at <a href="https://github.com/${username}">GitHub</a> or via email at <a href="mailto:${email}">Email</a>
 `;
 }
 
