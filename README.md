@@ -12,10 +12,10 @@
   * [Support](#email)
   
   # Application Creator
-  Matthew Baty
+  Matthew BAty
 
   # Application Name
-  Test Title
+  test
 
   ## Descitption
   test

@@ -55,9 +55,9 @@ function generateMarkdown(data) {
   return `
   <img alt="License: ${license}" src="${licenseBadge}"/><br/>
   ## Table of Contents
-  * [Author](#personName)
-  * [Project Title](#title)
-  * [Project Description](#description)
+  * [Author](#author)
+  * [Project Title](#projectTitle)
+  * [Project Description](#ProjectDescription)
   * [Installation Instructions](#installation)
   * [Usage Information](#guidelines)
   * [Contribution Guidelines](#contribution)
@@ -65,13 +65,13 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Support](#email)
   
-  # Application Creator
+  # Author
   ${personName}
 
-  # Application Name
+  # Project Title
   ${title}
 
-  ## Descitption
+  ## Project Descitption
   ${description}
 
   ## Installation 
